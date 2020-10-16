@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HongjingDeng/Employee-Directory/static/css/main.01102b2d.chunk.css",
+    "main.js": "/HongjingDeng/Employee-Directory/static/js/main.ec272205.chunk.js",
+    "main.js.map": "/HongjingDeng/Employee-Directory/static/js/main.ec272205.chunk.js.map",
+    "runtime-main.js": "/HongjingDeng/Employee-Directory/static/js/runtime-main.7383fe1a.js",
+    "runtime-main.js.map": "/HongjingDeng/Employee-Directory/static/js/runtime-main.7383fe1a.js.map",
+    "static/js/2.0bcfb77b.chunk.js": "/HongjingDeng/Employee-Directory/static/js/2.0bcfb77b.chunk.js",
+    "static/js/2.0bcfb77b.chunk.js.map": "/HongjingDeng/Employee-Directory/static/js/2.0bcfb77b.chunk.js.map",
+    "index.html": "/HongjingDeng/Employee-Directory/index.html",
+    "precache-manifest.5f06343f9bdca3f272be363de2317e6e.js": "/HongjingDeng/Employee-Directory/precache-manifest.5f06343f9bdca3f272be363de2317e6e.js",
+    "service-worker.js": "/HongjingDeng/Employee-Directory/service-worker.js",
+    "static/css/main.01102b2d.chunk.css.map": "/HongjingDeng/Employee-Directory/static/css/main.01102b2d.chunk.css.map",
+    "static/js/2.0bcfb77b.chunk.js.LICENSE.txt": "/HongjingDeng/Employee-Directory/static/js/2.0bcfb77b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/HongjingDeng/Employee-Directory/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7383fe1a.js",
+    "static/js/2.0bcfb77b.chunk.js",
+    "static/css/main.01102b2d.chunk.css",
+    "static/js/main.ec272205.chunk.js"
+  ]
+}
