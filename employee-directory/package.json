@@ -1,6 +1,6 @@
 {
   "name": "employee-directory",
-  "homepage": "https://github.com/HongjingDeng/Employee-Directory",
+  "homepage": "https://hongjingdeng.github.io/Employee-Directory/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

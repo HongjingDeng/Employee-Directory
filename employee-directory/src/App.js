@@ -11,7 +11,7 @@ class App extends Component {
 
   componentDidMount() {
     // get random user data
-    axios.get(`https://randomuser.me/api/?results=100&nat=us`).then((res) => {
+    axios.get(`https://randomuser.me/api/?results=250&nat=us`).then((res) => {
       this.setState({
         people: res.data.results
       });
@@ -64,13 +64,13 @@ class App extends Component {
             type="text"
             value={this.state.search}
             onChange={this.changeSearch}
-            placeholder="Filter with React"
+            placeholder="Search By Name"
           />
           <button className="btn btn-primary" onClick={this.sortAZ}>
-            Sort Name A to Z
+            Sort Last Name A to Z
           </button>
           <button className="btn btn-danger" onClick={this.sortZA}>
-            Sort Name Z to A
+            Sort Last Name Z to A
 
           </button>
 
